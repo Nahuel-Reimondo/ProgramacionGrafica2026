@@ -49,8 +49,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BrickHeight: 0.54
-    - _SandHeight: 1.47
+    - _BrickHeight: 2
+    - _SandHeight: 5.26
     - __dirty: 0
     - _clampHeight: 1
     - _maxHeight: 3.1
