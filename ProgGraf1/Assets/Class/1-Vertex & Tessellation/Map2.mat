@@ -35,7 +35,7 @@ Material:
     - _amplitude2: 1
     - _baseNoiseStepMax: 0.452
     - _heightStep2: 0.5
-    - _noiseScale: 1
+    - _noiseScale: 2.1
     - _noiseScale1: 3.38
     - _noiseScale2: 8.37
     - _sandThreshold: 0.57
@@ -45,13 +45,13 @@ Material:
     - _stepNoise2: 0.5
     - _waterPerc: 0.9
     m_Colors:
-    - _Grass: {r: 0.17665869, g: 0.53773564, b: 0.06341206, a: 0}
-    - _Sand: {r: 0.9433962, g: 0.85199785, b: 0.15574902, a: 0}
+    - _Grass: {r: 0.17665872, g: 0.53773564, b: 0.063412085, a: 0}
+    - _Sand: {r: 0.9433962, g: 0.85199785, b: 0.15574905, a: 0}
     - _Snow: {r: 1, g: 1, b: 1, a: 0}
     - _deepColor1: {r: 0, g: 0.56016785, b: 0.9622641, a: 0}
     - _deepColor2: {r: 0.02700433, g: 0.4716981, b: 0, a: 1}
     - _heightColor2: {r: 1, g: 1, b: 1, a: 1}
     - _hightColor1: {r: 1, g: 0.78755426, b: 0.11792409, a: 0}
     - _hightColor2: {r: 1, g: 0.7254902, b: 0, a: 0}
-    - _water: {r: 0.05098016, g: 0.45927858, b: 1, a: 0}
+    - _water: {r: 0.05098018, g: 0.45927858, b: 1, a: 0}
   m_BuildTextureStacks: []
