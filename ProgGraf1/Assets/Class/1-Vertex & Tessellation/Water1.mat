@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Hologram_p1
-  m_Shader: {fileID: 4800000, guid: 0f71858b962fad043ab36006983ae1a6, type: 3}
+  m_Name: Water1
+  m_Shader: {fileID: 4800000, guid: f1043d1aa735cb14195519a703f68d65, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -25,10 +25,8 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - __dirty: 1
-    - _frequency: 25
-    - _fresnelPower: 2.33
-    - _timeScale: 0.02
+    - __dirty: 0
+    - _opacity: 0.5
     m_Colors:
-    - _mainColor: {r: 0.2976877, g: 0.7132074, b: 0.13322166, a: 1}
+    - _WaterColor: {r: 0, g: 0.54663944, b: 1, a: 0}
   m_BuildTextureStacks: []
