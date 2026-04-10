@@ -104,6 +104,8 @@ MonoBehaviour:
   - Hologram
   - Road
   - Room
+  - Cartoon
+  - SinCity
   transitionAnimator: {fileID: 8678933088325073223}
   fadeOutTrigger: StartTransition
   sceneNameText: {fileID: 9138430991426083301}
