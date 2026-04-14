@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events;
@@ -29,6 +28,15 @@ public class SceneController : Singleton<SceneController>
     {
         DontDestroyOnLoad(transitionAnimator.gameObject);
     }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.F2))
+        {
+            GoToNextScene();
+        }
+    }
+
 
     [ContextMenu("Go To Next Scene")]
     public void GoToNextScene()
