@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Steps
-  m_Shader: {fileID: 4800000, guid: 65429b76ae198694a94e506f9a58aae2, type: 3}
+  m_Name: Ramps
+  m_Shader: {fileID: 4800000, guid: 13cbd81d49533f749845da78e5065186, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,19 +23,12 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Texture1:
-        m_Texture: {fileID: 2800000, guid: e24b2c680edaa90458d31f11544d79ca, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _texcoord:
-        m_Texture: {fileID: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 64e7766099ad46747a07014e44d0aea1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ShadowForce1: -1
-    - _ShadowForce2: -1
-    - _ShadowForce3: -1
     - __dirty: 0
     m_Colors: []
   m_BuildTextureStacks: []

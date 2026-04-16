@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ColoredShadow&Normals
-  m_Shader: {fileID: 4800000, guid: cdd0a3b495373e646a9dd7eeffd193bb, type: 3}
+  m_Name: TextureWater
+  m_Shader: {fileID: 4800000, guid: d190c16f0ec9ab548adc1191c61e81f6, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,8 +23,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Texture2:
-        m_Texture: {fileID: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: a5a3ae20595f3cb4a997b321687e4363, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -33,11 +33,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ShadowForce2: 0
-    - _ShadowForce3: 0
-    - _ShadowForce4: 0
     - __dirty: 0
     m_Colors:
-    - _ColorShadow1: {r: 0, g: 0, b: 0, a: 0}
-    - _ColorShadow2: {r: 0, g: 0, b: 0, a: 0}
+    - _PannerSpeed: {r: 0.2, g: 0, b: 0, a: 0}
+    - _Tilling: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
