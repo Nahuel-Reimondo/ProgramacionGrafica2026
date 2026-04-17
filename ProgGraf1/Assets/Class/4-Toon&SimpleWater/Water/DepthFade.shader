@@ -131,7 +131,7 @@ Shader "DepthFade"
 }
 /*ASEBEGIN
 Version=18900
-236;73.6;934.8;439;1040.168;285.3195;1.471866;False;False
+236;73.6;934.8;439;342.2304;185.1642;1;False;False
 Node;AmplifyShaderEditor.DepthFade;2;-950.1045,5.964972;Inherit;False;True;False;True;2;1;FLOAT3;0,0,0;False;0;FLOAT;1;False;1;FLOAT;0
 Node;AmplifyShaderEditor.RangedFloatNode;4;-860.0121,105.6083;Inherit;False;Property;_Bias;Bias;0;0;Create;True;0;0;0;False;0;False;0;0;0;0;0;1;FLOAT;0
 Node;AmplifyShaderEditor.SimpleAddOpNode;3;-692.8082,9.053841;Inherit;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0
@@ -152,4 +152,4 @@ WireConnection;9;0;7;0
 WireConnection;10;0;9;0
 WireConnection;1;0;10;0
 ASEEND*/
-//CHKSM=EA6D2CA153155F68D48B81D325964C8EC742E181
+//CHKSM=AF9729D77AF8E123765BF7EC379958B284B89911
