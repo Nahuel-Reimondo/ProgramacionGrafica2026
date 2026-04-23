@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SecondMarker_Material
-  m_Shader: {fileID: 4800000, guid: 6a4f208df87b6df4a8f8677b04081c63, type: 3}
+  m_Name: Maia_Mojsiejczuk_MT_Resorte
+  m_Shader: {fileID: 4800000, guid: 7dad31afcdb914840b9a6db4e10a1fe2, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -19,12 +19,21 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _SpringTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ADD: 0
-    - _MULTIPLY: 1
-    - _POWER: 2.23
+    - _Frequency: 1
+    - _LinearSpeed: 0.4
+    - _YPivot: 1
     - __dirty: 0
-    m_Colors: []
+    m_Colors:
+    - _Vector0: {r: 0, g: 0.25, b: 0, a: 0}
   m_BuildTextureStacks: []

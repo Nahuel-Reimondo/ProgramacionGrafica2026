@@ -7,11 +7,11 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Marker_Material
-  m_Shader: {fileID: 4800000, guid: 463206e660a241342b44e31496bfc45e, type: 3}
+  m_Name: Maia_Mojsiejczuk_MT_BuildingParalaxxMapping
+  m_Shader: {fileID: 4800000, guid: 3b2e40a8da56905458b56f2fdadd1fc8, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 0
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -20,16 +20,12 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Brick_HeightTexture:
+        m_Texture: {fileID: 2800000, guid: 003e22cdb2ce86641b1928ffe144567e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Texture0:
-        m_Texture: {fileID: 2800000, guid: 7996905d1337e5c47b5cb14e1f833655, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Texture1:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _TextureSample1:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ce0c4ff6339b0ee449c8bbff55262863, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -38,8 +34,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _TimeSpeed: 4.81
+    - _Scale: -0.0237
     - __dirty: 0
-    m_Colors:
-    - _Anchor: {r: 5.57, g: 5.69, b: 0, a: 0}
+    m_Colors: []
   m_BuildTextureStacks: []
