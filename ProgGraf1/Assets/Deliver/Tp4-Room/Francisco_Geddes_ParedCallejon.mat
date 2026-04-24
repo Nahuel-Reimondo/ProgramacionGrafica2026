@@ -35,7 +35,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _RefPlane: 0.5
-    - __dirty: 0
+    - __dirty: 1
     - _offset: 0
     - _scale: 0.2
     m_Colors:
