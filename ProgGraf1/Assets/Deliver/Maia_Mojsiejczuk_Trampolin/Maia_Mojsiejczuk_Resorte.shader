@@ -52,7 +52,7 @@ Shader "Maia_Mojsiejczuk_Resorte"
 }
 /*ASEBEGIN
 Version=18900
-630;115;480;552;807.355;548.0703;1.3;True;False
+220;73;1244;657;1260.66;304.8471;1;True;False
 Node;AmplifyShaderEditor.RangedFloatNode;4;-991.9163,301.0833;Inherit;False;Property;_Frequency;Frequency;3;0;Create;True;0;0;0;False;0;False;1;0;0;0;0;1;FLOAT;0
 Node;AmplifyShaderEditor.TauNode;2;-966.8892,397.8095;Inherit;False;0;1;FLOAT;0
 Node;AmplifyShaderEditor.RangedFloatNode;3;-1208.684,170.8827;Inherit;False;Property;_LinearSpeed;LinearSpeed;2;0;Create;True;0;0;0;False;0;False;0.4;1;0;0.4;0;1;FLOAT;0
@@ -84,4 +84,4 @@ WireConnection;14;1;13;0
 WireConnection;0;0;15;0
 WireConnection;0;11;14;0
 ASEEND*/
-//CHKSM=70E03DE2299D0CA2744BB8C1AA53AC72D87527BF
+//CHKSM=6781A4FEFDD84E9E4EB659D54C30CA921B366C03

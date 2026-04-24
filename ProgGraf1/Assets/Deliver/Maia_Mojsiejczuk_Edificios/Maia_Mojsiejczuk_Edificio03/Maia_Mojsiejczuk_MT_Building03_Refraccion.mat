@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Windows:
-        m_Texture: {fileID: 2800000, guid: c7089ab2529da114c8bd39b9d65fd371, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -38,9 +38,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Depth: 0.2
+    - _Depth: 0.95
     - __dirty: 0
     m_Colors:
     - _BrickColor: {r: 0.5943396, g: 0.09812209, b: 0.09812209, a: 0}
-    - _TilingValues: {r: 3, g: 3, b: 0, a: 0}
+    - _TilingValues: {r: 3, g: 6.35, b: 0, a: 0}
   m_BuildTextureStacks: []

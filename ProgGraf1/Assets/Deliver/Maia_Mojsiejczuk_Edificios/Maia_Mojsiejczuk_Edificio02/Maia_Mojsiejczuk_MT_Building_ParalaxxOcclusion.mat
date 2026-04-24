@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Bricks:
-        m_Texture: {fileID: 2800000, guid: 491a3bfc7fec30648a2de3e02e3bc92d, type: 3}
+        m_Texture: {fileID: 2800000, guid: c43878ee0c3949c4f8f2ae52acd426d7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _GraffitiFill_Texture:
@@ -42,16 +42,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _GraffitiFill_Offset: 0.134
-    - _GraffitiFill_Scale: 0.1
+    - _GraffitiFill_Offset: 0.3
+    - _GraffitiFill_Scale: 0.4
     - _Graffiti_HeightLimit: -0.17
     - _HeightLimit_Graffiti: 0.03
     - __dirty: 0
     m_Colors:
     - _Bricks_Color: {r: 0.4622642, g: 0.4123262, b: 0.2551175, a: 0}
-    - _Bricks_TileOffset: {r: 3, g: 3, b: 0, a: 0}
+    - _Bricks_TileOffset: {r: 4.1, g: 8.7, b: 0, a: 0}
     - _GraffitiFill_PosXY: {r: 1, g: 1, b: 0, a: 0}
-    - _Graffiti_Tiling: {r: 3, g: 6.25, b: 0, a: 0}
+    - _Graffiti_Tiling: {r: 3, g: 9, b: 0, a: 0}
     - _TileOffset_Graffiti: {r: 2.89, g: 8.87, b: 0, a: 0}
     - _Tiling_Graffiti: {r: 2.46, g: 3.77, b: 0, a: 0}
   m_BuildTextureStacks: []
