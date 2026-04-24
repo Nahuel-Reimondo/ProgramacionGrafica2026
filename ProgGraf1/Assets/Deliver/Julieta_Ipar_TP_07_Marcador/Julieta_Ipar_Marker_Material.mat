@@ -40,7 +40,7 @@ Material:
     m_Floats:
     - _Max: -0.18
     - _Min: 0.57
-    - _PowerValue: 0.57
+    - _PowerValue: 0.5
     - _TimeSpeed: 4.81
     - _Value: 0.82
     - __dirty: 0
