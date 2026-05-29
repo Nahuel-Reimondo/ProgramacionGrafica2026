@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ZWrite
-  m_Shader: {fileID: 4800000, guid: d3da08bf1b142b74dbfce227e87cc7d8, type: 3}
+  m_Name: OutlineZ
+  m_Shader: {fileID: 4800000, guid: d18c1d95a1d389d47b163bc8c9713f16, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -16,7 +16,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2001
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -25,7 +25,15 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
+    - _ASEOutlineWidth: 0.2
+    - _Bias: 0.1
+    - _Cutoff: 0.5
+    - _Power: 1.12
+    - _Scale: 0.62
+    - _Step: 0.317
+    - _Thickness: 0.06
     - __dirty: 0
     m_Colors:
-    - _MainColor: {r: 0.082627155, g: 0.33223218, b: 0.79622644, a: 0}
+    - _ASEOutlineColor: {r: 0, g: 1, b: 0.75639486, a: 1}
+    - _HidenColor: {r: 0, g: 1, b: 0.7568628, a: 1}
   m_BuildTextureStacks: []
