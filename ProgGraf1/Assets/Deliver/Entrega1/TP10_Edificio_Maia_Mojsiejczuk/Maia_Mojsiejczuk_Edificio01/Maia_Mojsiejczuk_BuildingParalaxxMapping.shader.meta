@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3b2e40a8da56905458b56f2fdadd1fc8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Texture0: {fileID: 2800000, guid: ce0c4ff6339b0ee449c8bbff55262863, type: 3}
+  - _Brick_HeightTexture: {fileID: 2800000, guid: 003e22cdb2ce86641b1928ffe144567e, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
